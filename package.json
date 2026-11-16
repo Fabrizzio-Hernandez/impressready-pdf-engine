@@ -2,7 +2,7 @@
   "name": "impressready-pdf-engine",
   "version": "1.0.0",
   "private": true,
-  "description": "Zero-upload, client-side PDF imposition, prepress vector generation, and Canvas 2D ink-saving image processing engine extracted from ImpressReady (https://impressready.com).",
+  "description": "Client-side PDF imposition, prepress cover geometry, and Canvas 2D ink-saving image processing engine for ImpressReady (https://impressready.com).",
   "scripts": {
     "typecheck": "tsc --noEmit",
     "test": "vitest run",
